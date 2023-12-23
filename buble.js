@@ -11,5 +11,5 @@ function buble(nom) {
     console.log(nom);
 }
 
-let nom = [3, 5, 1, 99, 12, 18, 65];
+let nom = [3, 5, 1, 99, 12, 18, 65, 33];
 buble (nom);
